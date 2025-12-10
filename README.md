@@ -1,4 +1,10 @@
 # Monad Clarity Layer — Pre-MVP Prototype (Alpha)
+![Pre-MVP](https://img.shields.io/badge/Status-Pre--MVP-orange)
+![Learning Module](https://img.shields.io/badge/Module-Learning-blue)
+![AI-Native](https://img.shields.io/badge/AI--Native-Enabled-purple)
+![Monad Ecosystem](https://img.shields.io/badge/Web3-Monad%20Ecosystem-0a7cff)
+![Developer Enablement](https://img.shields.io/badge/Focus-Developer%20Enablement-brightgreen)
+![Alpha](https://img.shields.io/badge/Stage-Alpha-lightgrey)
 
 Scale is building an AI-native **learning + intelligence layer** to help Web3 developers understand 
 and build on high-performance chains like Monad with clarity and speed.
